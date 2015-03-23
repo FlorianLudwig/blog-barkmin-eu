@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressum
-permalink: /impressum.html
+permalink: /impressum/
 hide: true
 ---
 
