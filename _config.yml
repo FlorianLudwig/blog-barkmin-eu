@@ -53,9 +53,7 @@ theme:
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
 
-# PAGINATION
-paginate: 5
-paginate_path: "blog/page:num"
+
 
 # BUILD SETTINGS
 markdown: kramdown
