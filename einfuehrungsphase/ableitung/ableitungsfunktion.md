@@ -9,3 +9,4 @@ hide: true
 
 ##Weitere Links
 * [Ableitungsfunktionen skizzieren](https://www.youtube.com/watch?v=tmrpkUuQgj4)
+* [[Englisch] Khan Academy - Derivatives 2.5](https://www.youtube.com/watch?v=HEH_oKNLgUU)
