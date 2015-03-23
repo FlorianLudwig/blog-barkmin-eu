@@ -12,8 +12,8 @@ Stolbergstraße 104
 
 ##Kontakt:
 Telefon:	+491637740535
-E-Mail:	mike@barkmin.eu
-Quelle: http://www.e-recht24.de
+E-Mail:	[mike@barkmin.eu](mike@barkmin.eu)
+Quelle: [http://www.e-recht24.de](http://www.e-recht24.de)
 
 #Haftungsausschluss (Disclaimer)
 ##Haftung für Inhalte
@@ -30,8 +30,8 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 
 #Das Impressum gilt auch für folgende Social Media Profile
 
-Facebook: https://www.facebook.com/mbarkmin
+Facebook: [https://www.facebook.com/mbarkmin](https://www.facebook.com/mbarkmin)
 
-Google+: https://plus.google.com/+MikeBarkmin
+Google+: [https://plus.google.com/+MikeBarkmin](https://plus.google.com/+MikeBarkmin)
 
-Twitter: https://twitter.com/MikeBarkmin
+Twitter: [https://twitter.com/MikeBarkmin](https://twitter.com/MikeBarkmin)
