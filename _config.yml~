@@ -13,11 +13,11 @@ theme:
   # Header and footer text
   header_text:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> | Copyright © 2015 | <a href="/impressum/">Impressum</a>
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> | Copyright © 2015 | <a href="/impressum.html">Impressum</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: mike@barkmin.eu # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:

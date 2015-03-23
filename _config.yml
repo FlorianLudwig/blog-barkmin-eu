@@ -17,13 +17,13 @@ theme:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: mike@barkmin.eu # Full email address, e.g. "sam@example.com"
   behance:
-  bitbucket:
+  bitbucket: mikescho
   dribbble:
   facebook:
   flickr:
-  github: # nothing
+  github: mikescho
   google_plus:
   instagram:
   linkedin:  # Full URL
