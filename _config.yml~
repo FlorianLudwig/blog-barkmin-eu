@@ -19,13 +19,13 @@ theme:
   rss: false
   email_address: mike@barkmin.eu # Full email address, e.g. "sam@example.com"
   behance:
-  bitbucket:
+  bitbucket: mikescho
   dribbble:
   facebook:
   flickr:
-  github: # nothing
+  github: mikescho
   google_plus:
-  instagram:
+  instagram: mikebarkmin
   linkedin:  # Full URL
   pinterest:
   reddit:
@@ -35,7 +35,7 @@ theme:
   tumblr:
   twitter: # twitter
   wordpress:
-  youtube:
+  youtube: MikeBarkmin
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
