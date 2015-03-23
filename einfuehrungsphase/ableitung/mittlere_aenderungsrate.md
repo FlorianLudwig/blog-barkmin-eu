@@ -12,7 +12,7 @@ hide: true
 <iframe scrolling="no" src="https://tube.geogebra.org/material/iframe/id/893397/width/684/height/503/border/888888/rc/false/ai/false/sdz/true/smb/false/stb/false/stbh/true/ld/false/sri/true/at/auto" width="684px" height="503px" style="border:0px;"> </iframe>
 Shift + linke Maustaste = Fläche bewegen
 
-Shift + Mausrad = Zooom
+Shift + Mausrad = Zoom
 
 ##Aufgaben
 
@@ -36,3 +36,8 @@ Gegeben ist die Funktion $$ f(x)=-\frac{1}{6}x^3 + 2x + 3 $$.
 * Bestimme die Funktionsgleichung der Sekanten $$s$$ durch die Punkte $$P(4 \vert f(4))$$ und $$Q(3 \vert f(3))$$.
 * Zeichne den Graphen von $$f$$ und von $$s$$ in ein Koordinatensystem.
 * Gibt es ein Intervall in dem die mittlere Änderungsrate größer ist als im Intervall $$[1;2]$$?
+
+##Weitere Links
+
+* [Differenzenquotient einfach erklärt](https://www.youtube.com/watch?v=IuaWZ6CLniM)
+* [Anwendung des Differenzenquotienten (Beispielaufgabe)](https://www.youtube.com/watch?v=VFVL_5OFwMc)
