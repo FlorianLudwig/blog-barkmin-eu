@@ -7,12 +7,16 @@ permalink: /impressum/
 #Angaben gemäß § 5 TMG:
 
 Mike Barkmin
+
 Stolbergstraße 104
+
 45355 Essen
 
 ##Kontakt:
 Telefon:	+491637740535
+
 E-Mail:	[mike@barkmin.eu](mike@barkmin.eu)
+
 Quelle: [http://www.e-recht24.de](http://www.e-recht24.de)
 
 #Haftungsausschluss (Disclaimer)
