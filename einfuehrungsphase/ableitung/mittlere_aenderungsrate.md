@@ -26,6 +26,6 @@ Während der 10 Tage wurde folgende Wasserstände gemessen:
 Gegeben ist die Funktion $$ f(x)=-\frac{1}{6}x^3 + 2x + 3 $$.
 
 * Berechne die mittlere Änderungsrate von $$ f(x) $$ im Intervall $$ [1;2] $$
-* Bestimme die Funktionsgleichung der Sekanten s durch die Punkte $$P(4|f(4))$$ und $$Q(3|f(3))$$.
+* Bestimme die Funktionsgleichung der Sekanten s durch die Punkte $$P(4;f(4))$$ und $$Q(3;f(3))$$.
 * Zeichne den Graphen von $$f$$ und von $$s$$ in ein Koordinatensystem.
 * Gibt es ein Intervall in dem die mittlere Änderungsrate größer ist als im Intervall $$[1;2]$$?
