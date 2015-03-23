@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mathe - Ableitungsfunktion
+title: Ableitungsfunktion
 permalink: /einfuehrungsphase/ableitung/ableitungsfunktion
 hide: true
 ---

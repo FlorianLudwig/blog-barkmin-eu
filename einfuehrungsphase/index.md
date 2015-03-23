@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mathe - Einführungsphase
+title: Einführungsphase
 permalink: /einfuehrungsphase/
 hide: true
 ---
