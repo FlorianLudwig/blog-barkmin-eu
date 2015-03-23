@@ -15,3 +15,4 @@ hide: true
 * [Extremstellen](/einfuehrungsphase/funktionsuntersuchung/extremstellen)
 * [lokale und globale Extremstellen](/einfuehrungsphase/funktionsuntersuchung/lokale_globale_extremstellen)
 * [Hoch-, Tief- und Sattelpunkte](/einfuehrungsphase/funktionsuntersuchung/hoch_tief_sattelpunkte)
+* [Aufgaben](/einfuehrungsphase/funktionsuntersuchung/aufgaben)
