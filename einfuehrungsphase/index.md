@@ -9,6 +9,7 @@ hide: true
 * [Momentane Änderungsrate](/einfuehrungsphase/ableitung/momentane_aenderungsrate)
 * [Ableitungsfunktion](/einfuehrungsphase/ableitung/ableitungsfunktion)
 * [Ableitung der Sinus- und Cosinusfunktion](/einfuehrungsphase/ableitung/ableitung_sinus_cosinus)
+* [Aufgabensammlung](/einfuehrungsphase/ableitung/aufgaben)
 
 ##Funktionsuntersuchung
 * [Extremstellen](/einfuehrungsphase/funktionsuntersuchung/extremstellen)
