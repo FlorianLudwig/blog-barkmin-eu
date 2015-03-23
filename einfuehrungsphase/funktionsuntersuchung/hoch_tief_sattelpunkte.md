@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Lokale und globale Extremstellen
+title: Hoch-, Tief- und Sattelpunkte
+permalink: /einfuehrungsphase/funktionsuntersuchung/hoch_tief_sattelpunkte
 hide: true
 ---
