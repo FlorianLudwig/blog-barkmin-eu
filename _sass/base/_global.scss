@@ -83,6 +83,7 @@ p, ol, ul, dl, .math-display {
 }
 ol, ul {
   list-style-position: inside;
+  color: $text-color;
 }
 hr {
   border: 0;
