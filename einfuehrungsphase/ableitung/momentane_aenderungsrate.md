@@ -8,4 +8,4 @@ hide: true
 {% youtube https://www.youtube.com/watch?v=R9fP_V-OtaM 640 350%}
 
 ##Weitere Links
-* [[Englisch] Khan Academy - Derivatives 2](https://www.youtube.com/watch?v=IePCHjMeFkE)
+* [[Englisch] Khan Academy - Derivatives 2 (Video)](https://www.youtube.com/watch?v=IePCHjMeFkE)
