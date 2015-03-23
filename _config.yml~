@@ -11,11 +11,9 @@ theme:
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
-  # header_text:
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  header_text:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> | Copyright © 2015 | <a href="/impressum/">Impressum</a>
 
   # Icons
   rss: false
