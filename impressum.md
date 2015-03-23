@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Impressum
-permalink: /impressum/
+permalink: /impressum.html
+hide: true
 ---
 
 #Angaben gemäß § 5 TMG:
