@@ -5,6 +5,6 @@ permalink: /
 hide: true
 ---
 
-#Mathe
+##Mathe
 * [Einführungsphase](einfuehrungsphase)
 * [Taschenrechner (GTR)](taschenrechner)
