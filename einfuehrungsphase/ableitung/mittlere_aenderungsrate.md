@@ -25,6 +25,6 @@ Während der 10 Tage wurde folgende Wasserstände gemessen:
 
 Gegeben ist die Funktion $$ f(x)=-\frac{1}{6}x^3 + 2x + 3 $$.
 
-* Berechne die mittlere Änderungsrate von f(x) auf dem Intervall $$ [1;2] $$
-* Zeichne den Graphen von f
-* Gibt es ein Intervall in dem die mittlere Änderungsrate größer ist als im Intervall [1;2]?
+* Berechne die mittlere Änderungsrate von $$ f(x) $$ auf dem Intervall $$ [1;2] $$
+* Zeichne den Graphen von $$f$$
+* Gibt es ein Intervall in dem die mittlere Änderungsrate größer ist als im Intervall $$[1;2]$$?
