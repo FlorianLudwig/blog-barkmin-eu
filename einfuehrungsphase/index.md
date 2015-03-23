@@ -11,5 +11,5 @@ hide: true
 
 #Funktionsuntersuchung
 * Extremstellen
-* lokale und globale Extremstellen
+* [lokale und globale Extremstellen](/einfuehrungsphase/funktionsuntersuchung/lokale_globale_extremstellen)
 * Hoch-, Tief- und Sattelpunkte

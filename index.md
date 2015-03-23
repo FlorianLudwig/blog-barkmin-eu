@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Willkommen
+title: Übersicht
 permalink: /
 hide: true
 ---
