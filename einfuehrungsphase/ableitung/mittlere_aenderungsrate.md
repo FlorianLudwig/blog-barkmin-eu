@@ -18,7 +18,5 @@ Während der 10 Tage wurde folgende Wasserstände gemessen:
 | Wasserstand in 1000000 Liter | 6,78 | 7,09 | 6,89 | 7,20 | 7,01 |
 
 a) Erstelle hierzu ein Diagramm.
-
 b) Was lässt sich über den Wasserstand sagen?
-
 c) Zwischen welchen Messwerten ist der Wasserstand am meisten gestiegen? Zwischen welchen am wenigsten?
