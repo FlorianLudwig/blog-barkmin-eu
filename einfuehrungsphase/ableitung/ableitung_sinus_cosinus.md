@@ -8,7 +8,7 @@ hide: true
 ##Sinus- und Cosinusfunktion am Einheitskreis
 
 [Animation auf GeoGebraTube](https://tube.geogebra.org/student/m894183)
-<iframe scrolling="no" src="https://tube.geogebra.org/material/iframe/id/894183/width/950/height/500/border/888888/rc/false/ai/false/sdz/false/smb/false/stb/false/stbh/true/ld/false/sri/true/at/auto" width="950px" height="500px" style="border:0px;"> </iframe>
+<div class="frame-container"><iframe scrolling="no" src="https://tube.geogebra.org/material/iframe/id/894183/width/950/height/500/border/888888/rc/false/ai/false/sdz/false/smb/false/stb/false/stbh/true/ld/false/sri/true/at/auto" class="frame" style="border:0px;"> </iframe></div>
 
 ##Aufgaben
 
