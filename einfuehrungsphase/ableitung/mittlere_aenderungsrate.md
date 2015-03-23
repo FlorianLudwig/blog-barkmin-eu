@@ -11,7 +11,7 @@ hide: true
 
 ###Aufgabe 1
 
-Eine Messung zur Bestimmung der Wasserezunahme in einem See wurde über 10 Tage durchgeführt.
+Eine Messung zur Bestimmung des Wasserstands in einem See wurde über 10 Tage durchgeführt.
 Während der 10 Tage wurde folgende Wasserstände gemessen:
 
 | Zeit in Tagen | 2 | 4 | 6 | 8 | 10 |
@@ -19,4 +19,12 @@ Während der 10 Tage wurde folgende Wasserstände gemessen:
 
 * Erstelle hierzu ein Diagramm.
 * Was lässt sich über den Wasserstand sagen?
-* Zwischen welchen Messwerten ist der Wasserstand am meisten gestiegen? Zwischen welchen am wenigsten?
+* Zwischen welchen Messwerten hat sich der Wasserstand am meisten geändert?
+
+###Aufgabe 2
+
+Gegeben ist die Funktion $$ f(x)=-\frac{1}{6}x^3 + 2x + 3 $$.
+
+* Berechne die mittlere Änderungsrate von f(x) auf dem Intervall $$ [1;2] $$
+* Zeichne den Graphen von f
+* Gibt es ein Intervall in dem die mittlere Änderungsrate größer ist als im Intervall [1;2]?
