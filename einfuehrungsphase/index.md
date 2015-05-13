@@ -4,6 +4,9 @@ title: Einführungsphase
 permalink: /einfuehrungsphase/
 hide: true
 ---
+##Zentrale Klausur
+* [Zentrale Klausur NRW 10 - Übungsaufgaben](https://www.standardsicherung.schulministerium.nrw.de/cms/zur-uebersicht/zentrale-klausuren-s-ii)
+
 ##Ableitung
 * [Mittlere Änderungsrate](/einfuehrungsphase/ableitung/mittlere_aenderungsrate)
 * [Momentane Änderungsrate](/einfuehrungsphase/ableitung/momentane_aenderungsrate)
